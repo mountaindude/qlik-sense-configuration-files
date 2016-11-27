@@ -1,8 +1,8 @@
-Country
-US
-BR
-CA
-MX
-DE
-GB
-JP
+Country,CustomerId
+US,1234
+BR,2345
+CA,3456
+MX,4567
+DE,5678
+GB,6789
+JP,7890
